@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1495294754 source:c:\users\papa ndiaye\desktop\code blocs\projet1semestre\pourtester\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1496238641 source:c:\users\papa ndiaye\desktop\projetc1semestre\pourtester\main.c
+	<stdio.h>
+

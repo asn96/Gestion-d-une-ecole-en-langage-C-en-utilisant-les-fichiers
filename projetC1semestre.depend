@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1496415625 source:c:\users\papa ndiaye\desktop\projetc1semestre\fnctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1496416368 source:c:\users\papa ndiaye\desktop\projetc1semestre\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"C:\Users\Papa NDIAYE\Desktop\projetC1semestre\fctions_projets.h"
+
+1496416611 c:\users\papa ndiaye\desktop\projetc1semestre\fctions_projets.h
+
+1496842115 source:c:\users\papa ndiaye\desktop\tdsi l1 2017\projetc1semestre\fnctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1496842140 source:c:\users\papa ndiaye\desktop\tdsi l1 2017\projetc1semestre\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"C:\Users\Papa NDIAYE\Desktop\TDSI L1 2017\projetC1semestre\fctions_projets.h"
+
+1496842081 c:\users\papa ndiaye\desktop\tdsi l1 2017\projetc1semestre\fctions_projets.h
+
